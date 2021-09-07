@@ -1,5 +1,5 @@
 <h3 align="center">Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
-<h2 align="center">I'm Aditya Shrivastava, a passionate frontend developer from India</h2>
+<h2 align="center">I'm Aditya Shrivastava, a passionate full stack developer from India</h2>
 
 - 🔭 I’m currently working on **DSA** and **Fullstack Projects**
 - 🌱 I’m currently learning **TypeScript** and **TDD**
