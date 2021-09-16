@@ -4,7 +4,8 @@
 - 🔭 I’m currently working on **DSA** and **Fullstack Projects**
 - 🌱 I’m currently learning **TypeScript** and **TDD**
 - 👯 I’m looking to collaborate on **Full stack projects**
-- 📫 You can reach me at 👇 
+- 📫 You can reach me at: **aditya.shrivastava251@gmail.com**
+
 <p>
    <a href="https://twitter.com/notrealaditya">
     <img align="left" alt="Aditya Shrivastava | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
