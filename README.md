@@ -1,9 +1,9 @@
 <h3 align="center">Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
-<h2 align="center">I'm Aditya Shrivastava, a passionate full stack developer from India</h2>
+<h2 align="center">I'm Aditya Shrivastava, a passionate frontend developer from India</h2>
 
-- 🔭 I’m currently working on **DSA** and **Fullstack Projects**
-- 🌱 I’m currently learning **TypeScript** and **TDD**
-- 👯 I’m looking to collaborate on **Full stack projects**
+- 🔭 I’m currently working on **DSA** and **Frontend Projects**
+- 🌱 I’m currently learning **Frontend Development**
+- 👯 I’m looking to collaborate on **frontend based projects**
 - 📫 You can reach me at: **aditya.shrivastava251@gmail.com**
 
 <p>
@@ -23,7 +23,6 @@
 <p>
   <img alt="JavaScript" src="https://badges.aleen42.com/src/javascript.svg" />
   <img alt="React" src="https://badges.aleen42.com/src/react.svg" />
-  <img alt="TypeScript" src="https://badges.aleen42.com/src/typescript.svg" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
@@ -31,7 +30,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Jest" src="https://badges.aleen42.com/src/jest_2.svg" />
-  <img alt="Java" src="https://badges.aleen42.com/src/java.svg" />
   <img alt="VS Code" src="https://badges.aleen42.com/src/visual_studio_code.svg" />
 </p>
 
